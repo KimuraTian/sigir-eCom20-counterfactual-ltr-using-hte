@@ -50,4 +50,4 @@
 
 Note: `notebook/invoke_task_generator.ipynb` can be used to get the best parameters and generate train and test tasks.
 ### 8. Result analysis
-1. Open and run notebook: `notebook/4_results_analysis_*.ipynb`
+1. Open and run notebook: `notebook/4.1_results_analysis.ipynb`, `notebook/4.2_results_analysis.ipynb`
